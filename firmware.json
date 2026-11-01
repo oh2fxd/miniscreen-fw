@@ -1,0 +1,5 @@
+{
+  "version": "2.2.0",
+  "url": "https://raw.githubusercontent.com/oh2fxd/miniscreen-fw/main/miniscreen.bin",
+  "notes": "MiniScreen v2.2.0: 12-hour Pörssisähkö spot prices & 20-frame praying cat animation (Shelly support removed for high heap)"
+}
